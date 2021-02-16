@@ -1,4 +1,4 @@
-# Client-Server-Sockets-
+# Client-Server-Sockets
 Client-Server sockets in c.Server exec the commands sent from client.
 
 Run istructions:
